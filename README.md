@@ -2,6 +2,8 @@
 
 See [dev](https://github.com/dragmz/goas-release/releases/tag/dev) release for the latest, bleeding edge binaries.
 
+![](./goas.gif)
+
 ## Source code
 
 Not available yet.
