@@ -4,7 +4,7 @@ See [dev](https://github.com/dragmz/goas-release/releases/tag/dev) release for t
 
 ![](./goas.gif)
 
-## Source code
+### Source code
 
 Not available yet.
 
