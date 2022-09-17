@@ -33,3 +33,11 @@ Windows, Linux, macOS (see https://go.dev/dl/ for a minimum OS version required)
 ### Configs
 
 - `.goas/token` - (optionally) put your ASA Stats API token in the file so the `-token` arg is no longer needed
+
+### Tech Stack
+
+- [Go](https://go.dev/)
+- [Bubble Tea](https://github.com/charmbracelet/bubbletea)
+- ASA Stats API
+
+Built and released with [GitHub Actions](https://github.com/features/actions).
